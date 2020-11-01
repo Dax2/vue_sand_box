@@ -1,3 +1,7 @@
+// ok so the problem here is me. Need to format my prohects better. Not good enough understanding of file paths, trees etc and need fundamentals
+// to grasp what the machine is actually doing. This type of knowledge improved when I was working with java. Perhaps some time spent there will help.
+
+
 // let app = new Vue ({
 //     el : '#app',
 //     data: {
