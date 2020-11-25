@@ -2,7 +2,7 @@ h1 {
     color: aqua;
 }
 
-.flex {                         *.flex means your aiming for a class where as # means you are targeting and id. as in <div id="something"></div>*
+.flex {                         /*.flex means your aiming for a class where as # means you are targeting and id. as in <div id="something"></div>*/
     border: 5px solid green;
     margin: 6px;
     display: flex;
